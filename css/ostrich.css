@@ -12,7 +12,7 @@ html {
 
 @media only screen and (max-width:700px){
   
-#ostrich{position:absolute; top:-30px;
+#ostrich{position:absolute; top:30%;
   right:0;
 }
   
